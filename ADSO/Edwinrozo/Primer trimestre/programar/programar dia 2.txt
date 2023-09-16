@@ -1,0 +1,11 @@
+Dia 1
+
+variables
+tipos de datos
+operadores
+estructuras de datos y estructuras de control
+
+Dia 2
+
+alertas, sacar ventanas
+trabajar con arrays

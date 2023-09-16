@@ -1,0 +1,106 @@
+OOP: programacion orientada a objetos 
+La programación orientada a objetos; 
+es un paradigma de programación que parte 
+del concepto de "objetos" como base, los cuales 
+contienen información en forma de campos y código en forma de métodos.
+
+Los objetos se representan por llaves {}
+
+Todo tipo de dato que no sea objeto se llaman tipo de dato primitivo
+
+
+const user = {
+	name: "andres", //propiedades //clave y valor
+	lastname: "facundo",
+	age: 22,
+	hobbies: ['leer', 'programar','correr'],
+	direccion: {
+		calle: "alguna calle",
+		ciudad: "armenia"}
+}
+
+
+--Propiedades--
+
+Las propiedades son datos que describen a un objeto
+
+--METODOS--
+
+Un método es un bloque de código que contiene una serie de instrucciones.
+Un programa hace que se ejecuten las instrucciones al llamar al método y 
+especificando los argumentos de método necesarios.
+
+Es decir las propiedades son los datos de un objeto y los metodos
+nos permiten hacer algo con el objeto o hacer que el objeto realmente haga algo
+
+
+function nombreCompleto(){  //se crea una funcion que retorne nombrecompleto
+	return this.name + " " + this.lastname // la palabra this es para que me muestre datos o valores de las propiedades que le pertenecen al objeto
+}
+
+
+const user = {
+	name: "paola", //propiedades //clave y valor
+	lastname: "sanchez",
+	age: 22,
+	hobbies: ['leer', 'programar','correr'],
+	direccion: {
+		calle: "alguna calle",
+		ciudad: "armenia"},
+	nombreCompleto: nombreCompleto //creamos una propiedad que tenga como valor una funcion o un metodo
+}
+
+console.log(user.nombreCompleto()) // del user se llama la propiedad nombreCompleto
+
+
+const cuenta ={
+	number: "124324665467934",
+	monto: 100,
+	depositar(cantidad){
+		this.monto = this.monto + cantidad
+	},
+	retirar(cantidad){
+		this.monto = this.monto - cantidad
+	}
+}
+
+cuenta.depositar(200); //de la cuenta ejecutese el metodo depositar
+cuenta.depositar(1);
+cuenta.depositar(2);
+console.log(cuenta);
+
+cuenta.retirar(100); //de la cuenta ejecutese el metodo  retirar
+cuenta.retirar(1); 
+ 
+console.log(cuenta);
+
+
+--CONSTRUCTOR DE OBJETOS--
+forma correcta de crear muchos objetos
+Nos permite crear multiples objetos
+
+function Person() {
+    this.name = ""
+    this.lastname = ""
+    this.age = 0
+    this.nombreCompleto = function () {
+        return `${this.name} ${this.lastname}`
+    }
+}
+const user2 = new Person()
+user2.name = "andres"
+user2.lastname = "facundo"
+user2.age = 22
+console.log(user2.nombreCompleto());
+
+const user3 = new Person ()
+const user4 = new Person ()
+const user5 = new Person ()
+
+console.log(user3, user4, user5);
+
+--OBJECT CONSTRUCTOR--
+
+
+
+

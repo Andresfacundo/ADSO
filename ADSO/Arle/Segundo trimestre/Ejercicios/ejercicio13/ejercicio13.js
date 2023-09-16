@@ -1,0 +1,4 @@
+// El concesionario de carros “VenXtucarro” es un lugar donde los compradores pueden comprar un carro nuevo o usado. Estos establecimientos generalmente están asociados con una marca de automóviles específica y tienen un inventario de vehículos nuevos. Hacer un programa en JavaScript que cumpla los siguientes requisitos o características (programa básico-simulación):
+// a. El usuario debe ingresar una marca de carros entre Chevrolet-Mazda y Renault.
+// b. Dependiendo de la marca, se seleccionará una de dos referencias por marca ejemplo: captiva -traker
+// c. El sistema le mostrara toda la información de cada una de las referencias en particular.

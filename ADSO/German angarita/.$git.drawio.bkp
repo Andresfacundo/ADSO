@@ -1,0 +1,202 @@
+<mxfile host="Electron" modified="2023-07-17T04:19:11.738Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.5.1 Chrome/112.0.5615.204 Electron/24.6.0 Safari/537.36" etag="ryzYAYnSDrmswjFjutxV" version="21.5.1" type="device">
+  <diagram name="Página-1" id="mUch_-usiKLbBnv37mSE">
+    <mxGraphModel dx="2245" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-eceLxbfj31mb70Jp67t-40" value="&lt;p class=&quot;MsoNormal&quot;&gt;Es&lt;br&gt;una plataforma de desarrollo colaborativa nacida en el año 2008 que opera bajo&lt;br&gt;la compañía GitHub, Inc., hoy propiedad de Microsoft. GitHub que ofrece&lt;br&gt;alojamiento para el código fuente de cualquier proyecto, y permite que múltiples&lt;br&gt;colaboradores puedan trabajar conjuntamente en un mismo proyecto, o partes de&lt;br&gt;él, gracias al uso de Git como sistema de control de versiones.&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="530" y="806.69" width="160" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="-eceLxbfj31mb70Jp67t-3" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="400" as="sourcePoint" />
+            <mxPoint x="410" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-eceLxbfj31mb70Jp67t-4" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="400" as="sourcePoint" />
+            <mxPoint x="410" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-eceLxbfj31mb70Jp67t-5" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="400" as="sourcePoint" />
+            <mxPoint x="740" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-eceLxbfj31mb70Jp67t-6" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="440" as="sourcePoint" />
+            <mxPoint x="80" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-eceLxbfj31mb70Jp67t-10" value="Que es git" style="whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="30" y="440" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-eceLxbfj31mb70Jp67t-11" value="&lt;p class=&quot;MsoNormal&quot;&gt;Git es un software de control de versiones distribuido, de&lt;br/&gt;software libre y código abierto, que fué desarrollado por Linus Torvalds, el&lt;br/&gt;mismo creador del kernel Linux&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="5" y="530" width="150" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="-eceLxbfj31mb70Jp67t-12" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="-eceLxbfj31mb70Jp67t-11" target="-eceLxbfj31mb70Jp67t-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="79.5" y="520" as="sourcePoint" />
+            <mxPoint x="79.5" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-eceLxbfj31mb70Jp67t-13" value="Como funciona git" style="whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="357.5" y="440" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-eceLxbfj31mb70Jp67t-14" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="-eceLxbfj31mb70Jp67t-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="407" y="450" as="sourcePoint" />
+            <mxPoint x="407.5" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-eceLxbfj31mb70Jp67t-15" value="&lt;p class=&quot;MsoNormal&quot;&gt;Git es un&lt;br/&gt;software que cualquier persona se puede instalar de forma local en su equipo.&lt;br/&gt;Está disponible tanto para Windows como para macOS y GNU/Linux (de hecho, es&lt;br/&gt;muy probable que si utilizas GNU/Linux tu distribución ya lo traiga&lt;br/&gt;preinstalado).&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="332.5" y="520" width="155" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="-eceLxbfj31mb70Jp67t-16" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="-eceLxbfj31mb70Jp67t-15" target="-eceLxbfj31mb70Jp67t-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="417.5" y="520" as="sourcePoint" />
+            <mxPoint x="417.5" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-eceLxbfj31mb70Jp67t-18" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="-eceLxbfj31mb70Jp67t-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="239.5" y="746.69" as="sourcePoint" />
+            <mxPoint x="273.82473242893184" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-eceLxbfj31mb70Jp67t-19" value="Principales caracteristicas" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="162.5" y="746.69" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-eceLxbfj31mb70Jp67t-20" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="-eceLxbfj31mb70Jp67t-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="105" y="816.69" as="sourcePoint" />
+            <mxPoint x="181.36363636363626" y="776.69" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-eceLxbfj31mb70Jp67t-22" value="Repositorios" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="55" y="816.69" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-eceLxbfj31mb70Jp67t-23" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="-eceLxbfj31mb70Jp67t-24" target="-eceLxbfj31mb70Jp67t-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="57.5" y="886.69" as="sourcePoint" />
+            <mxPoint x="57.5" y="846.69" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-eceLxbfj31mb70Jp67t-24" value="&lt;p class=&quot;MsoNormal&quot;&gt;Git se&lt;br/&gt;organiza en repositorios, que basicamente constituyen la unidad de&lt;br/&gt;almacenamiento que contiene todos los ficheros de código de tu proyecto, ademas&lt;br/&gt;de un subdirectorio oculto denominado&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-5" y="876.69" width="125" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="-eceLxbfj31mb70Jp67t-25" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="-eceLxbfj31mb70Jp67t-26" target="-eceLxbfj31mb70Jp67t-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="242.5" y="806.69" as="sourcePoint" />
+            <mxPoint x="267.5" y="816.69" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-eceLxbfj31mb70Jp67t-26" value="sistema de ramificaciones" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="155" y="816.69" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-eceLxbfj31mb70Jp67t-28" value="&lt;p class=&quot;MsoNormal&quot;&gt;De entrada,&lt;br/&gt;una de las características más destacables es su sistema de ramificaciones, o&lt;br/&gt;branches, que permite básicamente que un proyecto se pueda bifurcar en&lt;br/&gt;diferentes ramas para que coexistan varias líneas de desarrollo en paralelo,&lt;br/&gt;que luego se pueden volver a unir cuando se precise.&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="162.5" y="866.69" width="157.5" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="-eceLxbfj31mb70Jp67t-29" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="-eceLxbfj31mb70Jp67t-28" target="-eceLxbfj31mb70Jp67t-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="252.5" y="816.69" as="sourcePoint" />
+            <mxPoint x="252.5" y="786.69" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-eceLxbfj31mb70Jp67t-30" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="-eceLxbfj31mb70Jp67t-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="387.5" y="816.69" as="sourcePoint" />
+            <mxPoint x="262.5" y="796.69" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-eceLxbfj31mb70Jp67t-31" value="Arquitectura distribuida" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="327.5" y="816.69" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-eceLxbfj31mb70Jp67t-32" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="-eceLxbfj31mb70Jp67t-33" target="-eceLxbfj31mb70Jp67t-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="402.5" y="856.69" as="sourcePoint" />
+            <mxPoint x="257.5" y="856.69" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-eceLxbfj31mb70Jp67t-33" value="&lt;p class=&quot;MsoNormal&quot;&gt;Una de las&lt;br/&gt;claves de Git es que está concebido para que funcione de forma distribuida, de&lt;br/&gt;modo que muchos usuarios, cada uno desde sus propios equipos, puedan trabajar&lt;br/&gt;en un mismo proyecto, y sin prácticamente fricción, algo realmente difícil de&lt;br/&gt;conseguir en este tipo de arquitecturas.&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="347.5" y="866.69" width="140" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="-eceLxbfj31mb70Jp67t-34" value="&lt;p class=&quot;MsoNormal&quot;&gt;Un&lt;br/&gt;repositorio de Git, puede estar alojado en un servidor dentro de una red&lt;br/&gt;privada o intranet corporativa, a dia de hoy, es muy común trabajar con&lt;br/&gt;plataformas como GitHub,GitLab, o Bitbucket, que vienen con toda funcionalidad&lt;br/&gt;de Git integrada, y, en algunos casos, incluso incluyen funcionalidad&lt;br/&gt;adicionales, como es el caso de los pull requests y los forks.&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="655" y="510" width="180" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="-eceLxbfj31mb70Jp67t-36" value="&lt;p class=&quot;MsoNormal&quot;&gt;&amp;nbsp;Plataformas Cloud&lt;br/&gt;Colaborativas que Usan Git&lt;/p&gt;" style="whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="680" y="440" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-eceLxbfj31mb70Jp67t-37" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="740" y="440" as="sourcePoint" />
+            <mxPoint x="740" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-eceLxbfj31mb70Jp67t-38" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="-eceLxbfj31mb70Jp67t-34" target="-eceLxbfj31mb70Jp67t-36">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="760" y="540" as="sourcePoint" />
+            <mxPoint x="760" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-eceLxbfj31mb70Jp67t-42" value="GitHub" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="580" y="760" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-eceLxbfj31mb70Jp67t-43" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="-eceLxbfj31mb70Jp67t-42" target="-eceLxbfj31mb70Jp67t-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="785.5" y="794.84" as="sourcePoint" />
+            <mxPoint x="680" y="755.15" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-eceLxbfj31mb70Jp67t-44" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="-eceLxbfj31mb70Jp67t-40" target="-eceLxbfj31mb70Jp67t-42">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="623" y="827" as="sourcePoint" />
+            <mxPoint x="655" y="790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-eceLxbfj31mb70Jp67t-45" value="GitLab" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="767" y="760" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-eceLxbfj31mb70Jp67t-46" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="-eceLxbfj31mb70Jp67t-45" target="-eceLxbfj31mb70Jp67t-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="783.69" as="sourcePoint" />
+            <mxPoint x="712" y="746.69" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-eceLxbfj31mb70Jp67t-47" value="&lt;p class=&quot;MsoNormal&quot;&gt;es a día de&lt;br/&gt;hoy el principal competidor de GitHub. Es un software colaborativo ofrecido por&lt;br/&gt;GitLab, Inc., una compañía que funciona con un modelo denominado open core, en&lt;br/&gt;el que cada usuario puede contribuir a la compañía a través de su modelo de&lt;br/&gt;suscripción. A diferencia de GitHub, que funciona únicamente como servicio, en&lt;br/&gt;GitLab puede optar por utilizar GitLab SaaS, o por operar GitLab desde tu&lt;br/&gt;propio servidor.&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="730" y="806.69" width="180" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="-eceLxbfj31mb70Jp67t-48" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="-eceLxbfj31mb70Jp67t-47" target="-eceLxbfj31mb70Jp67t-45">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="769" y="770" as="sourcePoint" />
+            <mxPoint x="766" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-eceLxbfj31mb70Jp67t-50" value="&lt;p class=&quot;MsoNormal&quot;&gt;es un&lt;br/&gt;servicio de alojamiento para el desarrollo de proyectos colaborativos en Git,&lt;br/&gt;lanzado en el año 2008, y que actualmente es propiedad de la compañía&lt;br/&gt;Atlassian, conocida compañía por servicios como Jira, Confluence o Trello.&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="950" y="816.69" width="140" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="-eceLxbfj31mb70Jp67t-51" value="BitBucket" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="905" y="758" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-eceLxbfj31mb70Jp67t-52" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="-eceLxbfj31mb70Jp67t-51" target="-eceLxbfj31mb70Jp67t-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="802" y="770" as="sourcePoint" />
+            <mxPoint x="792" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-eceLxbfj31mb70Jp67t-53" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="-eceLxbfj31mb70Jp67t-50" target="-eceLxbfj31mb70Jp67t-51">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="812" y="780" as="sourcePoint" />
+            <mxPoint x="802" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-eceLxbfj31mb70Jp67t-54" value="Git" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="350" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

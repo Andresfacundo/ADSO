@@ -1,0 +1,202 @@
+<mxfile host="Electron" modified="2023-07-17T13:39:38.446Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.5.0 Chrome/112.0.5615.204 Electron/24.5.1 Safari/537.36" etag="mgKd_C_xBwtMSO0gONWR" version="21.5.0" type="device">
+  <diagram name="Página-1" id="mUch_-usiKLbBnv37mSE">
+    <mxGraphModel dx="2245" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-eceLxbfj31mb70Jp67t-40" value="&lt;p class=&quot;MsoNormal&quot;&gt;Es&lt;br&gt;una plataforma de desarrollo colaborativaque ofrece&lt;br&gt;alojamiento para el código fuente de cualquier proyecto, y permite que múltiples&lt;br&gt;colaboradores puedan trabajar conjuntamente en un mismo proyecto, o partes de&lt;br&gt;él, gracias al uso de Git como sistema de control de versiones.&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="530" y="806.69" width="150" height="213.31" as="geometry" />
+        </mxCell>
+        <mxCell id="-eceLxbfj31mb70Jp67t-3" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="400" as="sourcePoint" />
+            <mxPoint x="410" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-eceLxbfj31mb70Jp67t-4" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="400" as="sourcePoint" />
+            <mxPoint x="410" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-eceLxbfj31mb70Jp67t-5" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="400" as="sourcePoint" />
+            <mxPoint x="740" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-eceLxbfj31mb70Jp67t-6" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="440" as="sourcePoint" />
+            <mxPoint x="80" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-eceLxbfj31mb70Jp67t-10" value="Que es git" style="whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="30" y="440" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-eceLxbfj31mb70Jp67t-11" value="&lt;p class=&quot;MsoNormal&quot;&gt;Es un software de control de versiones distribuido&amp;nbsp;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="7.5" y="530" width="145" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-eceLxbfj31mb70Jp67t-12" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="-eceLxbfj31mb70Jp67t-11" target="-eceLxbfj31mb70Jp67t-10" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="79.5" y="520" as="sourcePoint" />
+            <mxPoint x="79.5" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-eceLxbfj31mb70Jp67t-13" value="Como funciona git" style="whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="357.5" y="440" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-eceLxbfj31mb70Jp67t-14" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="-eceLxbfj31mb70Jp67t-13" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="407" y="450" as="sourcePoint" />
+            <mxPoint x="407.5" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-eceLxbfj31mb70Jp67t-15" value="&lt;p class=&quot;MsoNormal&quot;&gt;Permite gestionar las cambios en el codigo fuente a lo largo del tiempo y tambien permite a muchos desarrolladores de software trabajar en un proyecto comun sin necesidad de compartir una misma red&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="332.5" y="520" width="147.5" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="-eceLxbfj31mb70Jp67t-16" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="-eceLxbfj31mb70Jp67t-15" target="-eceLxbfj31mb70Jp67t-13" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="417.5" y="520" as="sourcePoint" />
+            <mxPoint x="417.5" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-eceLxbfj31mb70Jp67t-18" value="" style="endArrow=none;html=1;rounded=0;" parent="1" target="-eceLxbfj31mb70Jp67t-15" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="239.5" y="746.69" as="sourcePoint" />
+            <mxPoint x="273.82473242893184" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-eceLxbfj31mb70Jp67t-19" value="Principales caracteristicas" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" parent="1" vertex="1">
+          <mxGeometry x="162.5" y="746.69" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-eceLxbfj31mb70Jp67t-20" value="" style="endArrow=none;html=1;rounded=0;" parent="1" target="-eceLxbfj31mb70Jp67t-19" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="105" y="816.69" as="sourcePoint" />
+            <mxPoint x="181.36363636363626" y="776.69" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-eceLxbfj31mb70Jp67t-22" value="Repositorios" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" parent="1" vertex="1">
+          <mxGeometry x="55" y="816.69" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-eceLxbfj31mb70Jp67t-23" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="-eceLxbfj31mb70Jp67t-24" target="-eceLxbfj31mb70Jp67t-22" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="57.5" y="886.69" as="sourcePoint" />
+            <mxPoint x="57.5" y="846.69" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-eceLxbfj31mb70Jp67t-24" value="&lt;p class=&quot;MsoNormal&quot;&gt;Es el que contiene todos los ficheros del proyecto y los cambios que se van generando&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="-5" y="876.69" width="115" height="83.31" as="geometry" />
+        </mxCell>
+        <mxCell id="-eceLxbfj31mb70Jp67t-25" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="-eceLxbfj31mb70Jp67t-26" target="-eceLxbfj31mb70Jp67t-19" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="242.5" y="806.69" as="sourcePoint" />
+            <mxPoint x="267.5" y="816.69" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-eceLxbfj31mb70Jp67t-26" value="sistema de ramificaciones" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" parent="1" vertex="1">
+          <mxGeometry x="155" y="816.69" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-eceLxbfj31mb70Jp67t-28" value="&lt;p class=&quot;MsoNormal&quot;&gt;Permite que un proyecto se pueda bifurcar en varias ramas para que coexistan varias lineas de desarrollo en paralelo que luego se puedan volver a unir&amp;nbsp;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="162.5" y="866.69" width="147.5" height="103.31" as="geometry" />
+        </mxCell>
+        <mxCell id="-eceLxbfj31mb70Jp67t-29" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="-eceLxbfj31mb70Jp67t-28" target="-eceLxbfj31mb70Jp67t-26" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="252.5" y="816.69" as="sourcePoint" />
+            <mxPoint x="252.5" y="786.69" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-eceLxbfj31mb70Jp67t-30" value="" style="endArrow=none;html=1;rounded=0;" parent="1" target="-eceLxbfj31mb70Jp67t-19" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="387.5" y="816.69" as="sourcePoint" />
+            <mxPoint x="262.5" y="796.69" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-eceLxbfj31mb70Jp67t-31" value="Arquitectura distribuida" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" parent="1" vertex="1">
+          <mxGeometry x="327.5" y="816.69" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-eceLxbfj31mb70Jp67t-32" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="-eceLxbfj31mb70Jp67t-33" target="-eceLxbfj31mb70Jp67t-31" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="402.5" y="856.69" as="sourcePoint" />
+            <mxPoint x="257.5" y="856.69" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-eceLxbfj31mb70Jp67t-33" value="&lt;p class=&quot;MsoNormal&quot;&gt;Los ususarios pueden trabajar al mismo tiemppo en el proyecto&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="347.5" y="866.69" width="122.5" height="63.31" as="geometry" />
+        </mxCell>
+        <mxCell id="-eceLxbfj31mb70Jp67t-34" value="&lt;p class=&quot;MsoNormal&quot;&gt;Un&lt;br/&gt;repositorio de Git, puede estar alojado en un servidor dentro de una red&lt;br/&gt;privada o intranet corporativa, a dia de hoy, es muy común trabajar con&lt;br/&gt;plataformas como GitHub,GitLab, o Bitbucket, que vienen con toda funcionalidad&lt;br/&gt;de Git integrada, y, en algunos casos, incluso incluyen funcionalidad&lt;br/&gt;adicionales, como es el caso de los pull requests y los forks.&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="655" y="510" width="180" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="-eceLxbfj31mb70Jp67t-36" value="&lt;p class=&quot;MsoNormal&quot;&gt;&amp;nbsp;Plataformas Cloud&lt;br/&gt;Colaborativas que Usan Git&lt;/p&gt;" style="whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="680" y="440" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-eceLxbfj31mb70Jp67t-37" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="740" y="440" as="sourcePoint" />
+            <mxPoint x="740" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-eceLxbfj31mb70Jp67t-38" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="-eceLxbfj31mb70Jp67t-34" target="-eceLxbfj31mb70Jp67t-36" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="760" y="540" as="sourcePoint" />
+            <mxPoint x="760" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-eceLxbfj31mb70Jp67t-42" value="GitHub" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" parent="1" vertex="1">
+          <mxGeometry x="580" y="760" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-eceLxbfj31mb70Jp67t-43" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="-eceLxbfj31mb70Jp67t-42" target="-eceLxbfj31mb70Jp67t-34" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="785.5" y="794.84" as="sourcePoint" />
+            <mxPoint x="680" y="755.15" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-eceLxbfj31mb70Jp67t-44" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="-eceLxbfj31mb70Jp67t-40" target="-eceLxbfj31mb70Jp67t-42" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="623" y="827" as="sourcePoint" />
+            <mxPoint x="655" y="790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-eceLxbfj31mb70Jp67t-45" value="GitLab" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" parent="1" vertex="1">
+          <mxGeometry x="767" y="760" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-eceLxbfj31mb70Jp67t-46" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="-eceLxbfj31mb70Jp67t-45" target="-eceLxbfj31mb70Jp67t-34" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="783.69" as="sourcePoint" />
+            <mxPoint x="712" y="746.69" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-eceLxbfj31mb70Jp67t-47" value="&lt;p class=&quot;MsoNormal&quot;&gt;es a día de&lt;br/&gt;hoy el principal competidor de GitHub. Es un software colaborativo ofrecido por&lt;br/&gt;GitLab, Inc., una compañía que funciona con un modelo denominado open core, en&lt;br/&gt;el que cada usuario puede contribuir a la compañía a través de su modelo de&lt;br/&gt;suscripción. A diferencia de GitHub, que funciona únicamente como servicio, en&lt;br/&gt;GitLab puede optar por utilizar GitLab SaaS, o por operar GitLab desde tu&lt;br/&gt;propio servidor.&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="730" y="806.69" width="180" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="-eceLxbfj31mb70Jp67t-48" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="-eceLxbfj31mb70Jp67t-47" target="-eceLxbfj31mb70Jp67t-45" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="769" y="770" as="sourcePoint" />
+            <mxPoint x="766" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-eceLxbfj31mb70Jp67t-50" value="&lt;p class=&quot;MsoNormal&quot;&gt;es un&lt;br/&gt;servicio de alojamiento para el desarrollo de proyectos colaborativos en Git,&lt;br/&gt;lanzado en el año 2008, y que actualmente es propiedad de la compañía&lt;br/&gt;Atlassian, conocida compañía por servicios como Jira, Confluence o Trello.&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="950" y="816.69" width="140" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="-eceLxbfj31mb70Jp67t-51" value="BitBucket" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" parent="1" vertex="1">
+          <mxGeometry x="905" y="758" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-eceLxbfj31mb70Jp67t-52" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="-eceLxbfj31mb70Jp67t-51" target="-eceLxbfj31mb70Jp67t-34" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="802" y="770" as="sourcePoint" />
+            <mxPoint x="792" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-eceLxbfj31mb70Jp67t-53" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="-eceLxbfj31mb70Jp67t-50" target="-eceLxbfj31mb70Jp67t-51" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="812" y="780" as="sourcePoint" />
+            <mxPoint x="802" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-eceLxbfj31mb70Jp67t-54" value="Git" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="350" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

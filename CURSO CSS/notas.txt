@@ -1,0 +1,100 @@
+ CSS selector
+
+--Universal--
+
+*: los cambios se aplican para todas las etiquetas
+
+--DE tipo--
+
+se aplican los cambios a la etiqueta seleccionada o escogida
+
+--CLASES--
+
+para ponerle nombre a una etiqueta se le pone
+el atributo class="nombre  de la clase"
+
+para seleccionar por clases se pone un . y 
+el nombre de la clase
+
+--ID--
+para seleccionar un elemento o etiqueta con el id 
+se usa "#id-del-elemento"
+
+un id es un identificador unico, no se le debe poner el mismo id
+a mas de un elemento
+
+--CSS PROPIEDADES--
+
+width: ancho
+heigth: alto
+padding: relleno o espacio interno espacio que hay entre el texto y la caja
+margin: margen es la distancia que hay entre cajas
+
+font-size: Esta propiedad cambia el tamaño de la letra (font-size: 10px)
+font-family: tipografia;
+font-weight: grosor de la letra
+line-height: El espacio que ocupa la letra
+
+--cajas--
+
+box model es la jerarquia en que se van poniendo las cosas
+
+display cambia el comportamiento de las cajas
+
+display: inline;: Vuelve los elementos en linea
+display: inline-block: se comporta como un elemento en linea pero puede adquirir
+las propiedades de un elemento en bloque
+
+
+--Propiedades de cajas--
+
+background-color: color de fondo de la caja
+text-align:center;: Centra el contenido horizontalmente dentro de la caja
+border-radius:El radio o borde de la caja
+border: borde de la caja
+box-shadow: Para darle sombra a la caja
+text-shadow:  para darle sombra al texto
+outline: enmarca cajas sin ocupar espacio
+position: adquiere varias propiedades y afecta el flujo html y las propiedades
+que adquiere son (top,left,right,bottom)
+position:fixed: esta propiedad sirve para fijar una caja, como una barra 
+de navegacion
+z-index:los elementos con el z-index mas alto aparecen encima de los elementos
+con z-index mas bajo
+opacity: es la transparencia que se le quiere dar a la caja
+justify-content:center; /*alineacion horizontal centra el contenido
+justify-content:space-between: Separa las cajas a una misma distancia lo que mas se pueda y da un margen automatico a las cajas
+
+align-items: center; /* alineacion vertical
+flex-direction:row: direccion en fila eje X
+flex-direction:column: direccion vertical o en columna eje Y
+flex-wrap:wrap:se ajustan automaticamente en multiples lineas dentro del contenedor si no tienen espacio suficiente
+
+
+--Pseudo-elementos--
+
+placeholder: Es para poner texto transparente en un input   
+before: para escribir texto antes de la etiqueta seleccionada
+after: para escribir texto despues o delante de la etiqueta seleccionada
+
+--Pseudo-Clases--
+
+:hover:Es para darle estilo a un boton o a una caja cuando se le pasa el mouse encima
+:link:Es para darle estilo a un ancla cuando se accede
+:visited:Es para darle estilo a un ancla cuando ya sea visitado
+:active: Se le da estilo a una caja solo cuando se le da click
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+

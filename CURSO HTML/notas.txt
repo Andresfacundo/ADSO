@@ -1,0 +1,15 @@
+Etiquetas de texto--->
+
+<br>:Esta etiqueta no tiene atributos y no hay necesidad de cerrar... sirve para dejar un espacio en linea.. lo que realmente hace es completar la linea, por eso se ve el salto de linea
+
+<h1></h1>:Etiqueta que se abre y  se cierra... sirve para  mostrar un titulo 
+<p></p>: etiqueta para escribrirparrafos
+<b></b>: etiqueta para poner negrita a los textos
+<i></i>: etiqueta para poner inclinada la letra
+<strike></strike>: etiqueta para poner texto tachado
+<small></small>: etiqueta para poner lecha chiquita
+<a href="">click aqui</a>: Etiqueta que nos redirige a un link con el atributo href
+../: los dos puntos sirven para volver una carpeta hacia atras
+target="_BLANK":atributo  de la etiqueta <a></a> para abrir enlace en una pestaña aparte
+
+Enlaces--->
