@@ -1,0 +1,913 @@
+{
+  "title" : "",
+  "description" : "",
+  "author" : "",
+  "targetLoudness" : -18.0,
+  "shouldApplyLoudnessNormalization" : true,
+  "videoFormatFrameRate" : 30,
+  "audioFormatSampleRate" : 44100,
+  "allowSubFrameEditing" : false,
+  "width" : 1920.0,
+  "height" : 1080.0,
+  "version" : "7.0",
+  "editRate" : 705600000,
+  "authoringClientName" :  {
+    "name" : "Camtasia",
+    "platform" : "Windows",
+    "version" : "2023.3.3"
+  },
+  "sourceBin" : [
+    {
+      "id" : 1,
+      "src" : "narrador 1.mp3",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20231121T222514",
+      "loudnessNormalization" : true,
+      "sourceTracks" : [
+        {
+          "range" : [0, 158824375],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 0,
+          "numChannels" : 1,
+          "integratedLUFS" : -15.3816078206687,
+          "peakLevel" : 0.835596323013306,
+          "metaData" : "narrador 1.mp3;"
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20231121T224116.211080"
+      }
+    },
+    {
+      "id" : 2,
+      "src" : "luis-and-juan-1.mp3",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20231121T230157",
+      "loudnessNormalization" : true,
+      "sourceTracks" : [
+        {
+          "range" : [0, 176160000],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 48000,
+          "bitDepth" : 0,
+          "numChannels" : 1,
+          "integratedLUFS" : -25.9327038492907,
+          "peakLevel" : 0.315619647502899,
+          "metaData" : "luis-and-juan-1.mp3;"
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20231121T230209.586163"
+      }
+    },
+    {
+      "id" : 3,
+      "src" : "narrado 2.mp3",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20231121T230734",
+      "loudnessNormalization" : true,
+      "sourceTracks" : [
+        {
+          "range" : [0, 108669375],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 0,
+          "numChannels" : 1,
+          "integratedLUFS" : -15.3263776778679,
+          "peakLevel" : 0.753731727600098,
+          "metaData" : "narrado 2.mp3;"
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20231121T230745.232520"
+      }
+    },
+    {
+      "id" : 4,
+      "src" : "narrador 3.mp3",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20231121T231216",
+      "loudnessNormalization" : true,
+      "sourceTracks" : [
+        {
+          "range" : [0, 139755000],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 0,
+          "numChannels" : 1,
+          "integratedLUFS" : -15.3422489573125,
+          "peakLevel" : 0.840187191963196,
+          "metaData" : "narrador 3.mp3;"
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20231121T231224.479310"
+      }
+    },
+    {
+      "id" : 5,
+      "src" : "juan-and-luis-2.mp3",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20231121T232019",
+      "loudnessNormalization" : true,
+      "sourceTracks" : [
+        {
+          "range" : [0, 150000000],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 48000,
+          "bitDepth" : 0,
+          "numChannels" : 1,
+          "integratedLUFS" : -24.0273674974916,
+          "peakLevel" : 0.383859038352966,
+          "metaData" : "juan-and-luis-2.mp3;"
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20231121T232032.821670"
+      }
+    },
+    {
+      "id" : 6,
+      "src" : "narrador 4.mp3",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20231121T233538",
+      "loudnessNormalization" : true,
+      "sourceTracks" : [
+        {
+          "range" : [0, 137926250],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 0,
+          "numChannels" : 1,
+          "integratedLUFS" : -15.1113401505197,
+          "peakLevel" : 0.836426436901093,
+          "metaData" : "narrador 4.mp3;"
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20231121T233551.829600"
+      }
+    },
+    {
+      "id" : 7,
+      "src" : "narrador 5.mp3",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20231121T233818",
+      "loudnessNormalization" : true,
+      "sourceTracks" : [
+        {
+          "range" : [0, 111281250],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 0,
+          "numChannels" : 1,
+          "integratedLUFS" : -17.2810468583226,
+          "peakLevel" : 0.746930480003357,
+          "metaData" : "narrador 5.mp3;"
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20231121T233828.325352"
+      }
+    },
+    {
+      "id" : 8,
+      "src" : "juan-3.mp3",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20231121T234708",
+      "loudnessNormalization" : true,
+      "sourceTracks" : [
+        {
+          "range" : [0, 69840000],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 48000,
+          "bitDepth" : 0,
+          "numChannels" : 1,
+          "integratedLUFS" : -28.0308016556271,
+          "peakLevel" : 0.222212612628937,
+          "metaData" : "juan-3.mp3;"
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20231121T234727.158638"
+      }
+    },
+    {
+      "id" : 9,
+      "src" : "luis-3.mp3",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20231121T234714",
+      "loudnessNormalization" : true,
+      "sourceTracks" : [
+        {
+          "range" : [0, 87360000],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 48000,
+          "bitDepth" : 0,
+          "numChannels" : 1,
+          "integratedLUFS" : -25.8968776076025,
+          "peakLevel" : 0.373009085655212,
+          "metaData" : "luis-3.mp3;"
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20231121T234743.319743"
+      }
+    },
+    {
+      "id" : 10,
+      "src" : "narrado 6.mp3",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20231121T234937",
+      "loudnessNormalization" : true,
+      "sourceTracks" : [
+        {
+          "range" : [0, 109452500],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 0,
+          "numChannels" : 1,
+          "integratedLUFS" : -14.8477311121239,
+          "peakLevel" : 0.825699746608734,
+          "metaData" : "narrado 6.mp3;"
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20231121T235100.530632"
+      }
+    },
+    {
+      "id" : 11,
+      "src" : "Sonido ambiente de ciudad - ambience city.mp3",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20231121T235534",
+      "loudnessNormalization" : true,
+      "sourceTracks" : [
+        {
+          "range" : [0, 600293333],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 0,
+          "numChannels" : 2,
+          "integratedLUFS" : -21.0994473149419,
+          "peakLevel" : 0.92926037311554,
+          "metaData" : "Sonido ambiente de ciudad - ambience city.mp3;"
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20231121T235554.724175"
+      }
+    },
+    {
+      "id" : 12,
+      "src" : "Dragon Ball Z Prólogo 3 Plantilla.mp3",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20231122T000229",
+      "loudnessNormalization" : true,
+      "sourceTracks" : [
+        {
+          "range" : [0, 103966250],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 0,
+          "numChannels" : 2,
+          "integratedLUFS" : -24.3196517299855,
+          "peakLevel" : 0.335634827613831,
+          "metaData" : "Dragon Ball Z Prólogo 3 Plantilla.mp3;"
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20231122T000251.355509"
+      }
+    },
+    {
+      "id" : 13,
+      "src" : "DragonBall Z  Intro HD.mp3",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20231122T000955",
+      "loudnessNormalization" : true,
+      "sourceTracks" : [
+        {
+          "range" : [0, 1107591250],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 0,
+          "numChannels" : 2,
+          "integratedLUFS" : -12.8399858488136,
+          "peakLevel" : 1.02931344509125,
+          "metaData" : "DragonBall Z  Intro HD.mp3;"
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20231122T001029.767430"
+      }
+    },
+    {
+      "id" : 14,
+      "src" : "Dragon Ball Z SoundtrackCancion Narrador.mp3",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20231122T000824",
+      "loudnessNormalization" : true,
+      "sourceTracks" : [
+        {
+          "range" : [0, 1487933750],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 0,
+          "numChannels" : 2,
+          "integratedLUFS" : -18.0871111554025,
+          "peakLevel" : 0.953035771846771,
+          "metaData" : "Dragon Ball Z SoundtrackCancion Narrador.mp3;"
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20231122T002300.179741"
+      }
+    },
+    {
+      "id" : 15,
+      "src" : "Dragon ball Z soundtrack 11.mp3",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20231122T003903",
+      "loudnessNormalization" : true,
+      "sourceTracks" : [
+        {
+          "range" : [0, 1118562500],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 0,
+          "numChannels" : 2,
+          "integratedLUFS" : -18.1260438077466,
+          "peakLevel" : 0.660370409488678,
+          "metaData" : "Dragon ball Z soundtrack 11.mp3;"
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20231122T003925.586941"
+      }
+    }
+  ],
+  "timeline" : {
+    "id" : 16,
+    "sceneTrack" : {
+      "scenes" : [
+        {
+          "csml" : {
+            "tracks" : [
+              {
+                "trackIndex" : 0,
+                "medias" : [
+                  {
+                    "id" : 17,
+                    "_type" : "AMFile",
+                    "src" : 1,
+                    "trackNumber" : 0,
+                    "attributes" : {
+                      "ident" : "narrador 1",
+                      "gain" : 1.0,
+                      "mixToMono" : false,
+                      "loudnessNormalization" : false,
+                      "sourceFileOffset" : 0
+                    },
+                      "channelNumber" : "0",
+                    "parameters" : {
+                      "volume" : 0.835164835164835
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 0,
+                    "duration" : 11195520000,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 11195520000,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "audiateLinkedSession" : "",
+                      "clipSpeedAttribute" : false
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 18,
+                    "_type" : "AMFile",
+                    "src" : 2,
+                    "trackNumber" : 0,
+                    "attributes" : {
+                      "ident" : "luis-and-juan-1",
+                      "gain" : 1.0,
+                      "mixToMono" : false,
+                      "loudnessNormalization" : true,
+                      "sourceFileOffset" : 0
+                    },
+                      "channelNumber" : "0",
+                    "effects" : [
+
+                    ],
+                    "start" : 11571840000,
+                    "duration" : 11760000000,
+                    "mediaStart" : 517440000,
+                    "mediaDuration" : 11760000000,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "audiateLinkedSession" : "",
+                      "clipSpeedAttribute" : false
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 19,
+                    "_type" : "AMFile",
+                    "src" : 3,
+                    "trackNumber" : 0,
+                    "attributes" : {
+                      "ident" : "narrado 2",
+                      "gain" : 1.0,
+                      "mixToMono" : false,
+                      "loudnessNormalization" : true,
+                      "sourceFileOffset" : 0
+                    },
+                      "channelNumber" : "0",
+                    "parameters" : {
+                      "volume" : 0.835164835164831
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 24037440000,
+                    "duration" : 7667520000,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 7667520000,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "audiateLinkedSession" : "",
+                      "clipSpeedAttribute" : false
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 20,
+                    "_type" : "AMFile",
+                    "src" : 4,
+                    "trackNumber" : 0,
+                    "attributes" : {
+                      "ident" : "narrador 3",
+                      "gain" : 1.0,
+                      "mixToMono" : false,
+                      "loudnessNormalization" : true,
+                      "sourceFileOffset" : 0
+                    },
+                      "channelNumber" : "0",
+                    "parameters" : {
+                      "volume" : 0.835164835164831
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 32034240000,
+                    "duration" : 9854880000,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 9854880000,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "audiateLinkedSession" : "",
+                      "clipSpeedAttribute" : false
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 21,
+                    "_type" : "AMFile",
+                    "src" : 5,
+                    "trackNumber" : 0,
+                    "attributes" : {
+                      "ident" : "juan-and-luis-2",
+                      "gain" : 1.0,
+                      "mixToMono" : false,
+                      "loudnessNormalization" : true,
+                      "sourceFileOffset" : 0
+                    },
+                      "channelNumber" : "0",
+                    "effects" : [
+
+                    ],
+                    "start" : 42571200000,
+                    "duration" : 9643200000,
+                    "mediaStart" : 940800000,
+                    "mediaDuration" : 9643200000,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "audiateLinkedSession" : "",
+                      "clipSpeedAttribute" : false
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 22,
+                    "_type" : "AMFile",
+                    "src" : 6,
+                    "trackNumber" : 0,
+                    "attributes" : {
+                      "ident" : "narrador 4",
+                      "gain" : 1.0,
+                      "mixToMono" : false,
+                      "loudnessNormalization" : true,
+                      "sourceFileOffset" : 0
+                    },
+                      "channelNumber" : "0",
+                    "parameters" : {
+                      "volume" : 0.835164835164831
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 52825920000,
+                    "duration" : 9713760000,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 9713760000,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "audiateLinkedSession" : "",
+                      "clipSpeedAttribute" : false
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 23,
+                    "_type" : "AMFile",
+                    "src" : 7,
+                    "trackNumber" : 0,
+                    "attributes" : {
+                      "ident" : "narrador 5",
+                      "gain" : 1.0,
+                      "mixToMono" : false,
+                      "loudnessNormalization" : true,
+                      "sourceFileOffset" : 0
+                    },
+                      "channelNumber" : "0",
+                    "parameters" : {
+                      "volume" : 0.835164835164831
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 63268800000,
+                    "duration" : 7832160000,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 7832160000,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "audiateLinkedSession" : "",
+                      "clipSpeedAttribute" : false
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 24,
+                    "_type" : "AMFile",
+                    "src" : 8,
+                    "trackNumber" : 0,
+                    "attributes" : {
+                      "ident" : "juan-3",
+                      "gain" : 1.0,
+                      "mixToMono" : false,
+                      "loudnessNormalization" : true,
+                      "sourceFileOffset" : 0
+                    },
+                      "channelNumber" : "0",
+                    "effects" : [
+
+                    ],
+                    "start" : 71736000000,
+                    "duration" : 4210080000,
+                    "mediaStart" : 705600000,
+                    "mediaDuration" : 4210080000,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "audiateLinkedSession" : "",
+                      "clipSpeedAttribute" : false
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 25,
+                    "_type" : "AMFile",
+                    "src" : 9,
+                    "trackNumber" : 0,
+                    "attributes" : {
+                      "ident" : "luis-3",
+                      "gain" : 1.0,
+                      "mixToMono" : false,
+                      "loudnessNormalization" : true,
+                      "sourceFileOffset" : 0
+                    },
+                      "channelNumber" : "0",
+                    "effects" : [
+
+                    ],
+                    "start" : 76534080000,
+                    "duration" : 5550720000,
+                    "mediaStart" : 611520000,
+                    "mediaDuration" : 5550720000,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "audiateLinkedSession" : "",
+                      "clipSpeedAttribute" : false
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 26,
+                    "_type" : "AMFile",
+                    "src" : 10,
+                    "trackNumber" : 0,
+                    "attributes" : {
+                      "ident" : "narrado 6",
+                      "gain" : 1.0,
+                      "mixToMono" : false,
+                      "loudnessNormalization" : true,
+                      "sourceFileOffset" : 0
+                    },
+                      "channelNumber" : "0",
+                    "effects" : [
+
+                    ],
+                    "start" : 82696320000,
+                    "duration" : 7714560000,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 7714560000,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "audiateLinkedSession" : "",
+                      "clipSpeedAttribute" : false
+                    },
+                    "animationTracks" : {
+
+                    }
+                  }
+                ]
+              },
+              {
+                "trackIndex" : 1,
+                "medias" : [
+                  {
+                    "id" : 27,
+                    "_type" : "AMFile",
+                    "src" : 13,
+                    "trackNumber" : 0,
+                    "attributes" : {
+                      "ident" : "DragonBall Z  Intro HD",
+                      "gain" : 1.0,
+                      "mixToMono" : false,
+                      "loudnessNormalization" : true,
+                      "sourceFileOffset" : 0
+                    },
+                      "channelNumber" : "0,1",
+                    "parameters" : {
+                      "volume" : 0.131868131868131
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 0,
+                    "duration" : 31704960000,
+                    "mediaStart" : 846720000,
+                    "mediaDuration" : 31704960000,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "audiateLinkedSession" : "",
+                      "clipSpeedAttribute" : false
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 28,
+                    "_type" : "AMFile",
+                    "src" : 14,
+                    "trackNumber" : 0,
+                    "attributes" : {
+                      "ident" : "Dragon Ball Z SoundtrackCancion Narrador",
+                      "gain" : 1.0,
+                      "mixToMono" : false,
+                      "loudnessNormalization" : true,
+                      "sourceFileOffset" : 0
+                    },
+                      "channelNumber" : "0,1",
+                    "parameters" : {
+                      "volume" : 0.197802197802196
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 32034240000,
+                    "duration" : 30505440000,
+                    "mediaStart" : 2399040000,
+                    "mediaDuration" : 30505440000,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "audiateLinkedSession" : "",
+                      "clipSpeedAttribute" : false
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 29,
+                    "_type" : "AMFile",
+                    "src" : 15,
+                    "trackNumber" : 0,
+                    "attributes" : {
+                      "ident" : "Dragon ball Z soundtrack 11",
+                      "gain" : 1.0,
+                      "mixToMono" : false,
+                      "loudnessNormalization" : true,
+                      "sourceFileOffset" : 0
+                    },
+                      "channelNumber" : "0,1",
+                    "parameters" : {
+                      "volume" : 0.21978021978022
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 63268800000,
+                    "duration" : 18816000000,
+                    "mediaStart" : 1034880000,
+                    "mediaDuration" : 18816000000,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "audiateLinkedSession" : "",
+                      "clipSpeedAttribute" : false
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 30,
+                    "_type" : "AMFile",
+                    "src" : 12,
+                    "trackNumber" : 0,
+                    "attributes" : {
+                      "ident" : "Dragon Ball Z Prólogo 3 Plantilla",
+                      "gain" : 1.0,
+                      "mixToMono" : false,
+                      "loudnessNormalization" : true,
+                      "sourceFileOffset" : 0
+                    },
+                      "channelNumber" : "0,1",
+                    "parameters" : {
+                      "volume" : 0.175824175824175
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 82696320000,
+                    "duration" : 7314720000,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 7314720000,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "audiateLinkedSession" : "",
+                      "clipSpeedAttribute" : false
+                    },
+                    "animationTracks" : {
+
+                    }
+                  }
+                ]
+              },
+              {
+                "trackIndex" : 2,
+                "medias" : [
+                ]
+              }            ]
+          }
+        }
+      ]
+    },
+    "trackAttributes" : [
+      {
+        "ident" : "",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "magnetic" : false,
+        "matte" : 0,
+        "solo" : false,
+        "metadata" : {
+          "IsLocked" : "False",
+          "WinTrackHeight" : "56"
+        }
+      },
+      {
+        "ident" : "",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "magnetic" : false,
+        "matte" : 0,
+        "solo" : false,
+        "metadata" : {
+          "IsLocked" : "False",
+          "WinTrackHeight" : "56"
+        }
+      },
+      {
+        "ident" : "",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "magnetic" : false,
+        "matte" : 0,
+        "solo" : false,
+        "metadata" : {
+          "IsLocked" : "False",
+          "WinTrackHeight" : "56"
+        }
+      }
+    ],
+    "captionAttributes" : {
+      "enabled" : true,
+      "fontName" : "Arial",
+      "fontSize" : 64,
+      "backgroundColor" : [ 0, 0, 0, 191],
+      "foregroundColor" : [ 255, 255, 255, 255],
+      "lang" : "en",
+      "alignment" : 0,
+      "defaultFontSize" : true,
+      "opacity" : 0.5,
+      "backgroundEnabled" : true,
+      "backgroundOnlyAroundText" : true
+    },
+    "gain" : 1.0,
+    "legacyAttenuateAudioMix" : false,
+    "backgroundColor" : [ 0, 0, 0, 255]
+  },
+  "metadata" : {
+    "AutoSaveFile" : "C:\\Users\\xdc_6\\AppData\\Local\\TechSmith\\Camtasia Studio\\23.0\\Auto-Saves\\Proyecto sin título72fad36.autosave.tscproj",
+    "CanvasZoom" : 125,
+    "Date" : "martes-11-21 04:06:58 p. m.",
+    "Fit" : 0,
+    "IsAutoSave" : false,
+    "IsStandalone" : true,
+    "Language" : "ESN",
+    "ProfileName" : "",
+    "ProjectDimensionsChanged" : "0",
+    "ProjectThumbnail" : "iVBORw0KGgoAAAANSUhEUgAAAoAAAAFoCAYAAADHMkpRAAAAAXNSR0IArs4c6QAAAARnQU1BAACx\r\njwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAZxSURBVHhe7chBDcAwAMSw8ifdFUAQ3BzJn5zX\r\nBQDgV3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAA\r\nu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3IC\r\nALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALAr\r\nJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAA\r\nu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3IC\r\nALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALAr\r\nJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAA\r\nu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3IC\r\nALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALAr\r\nJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAA\r\nu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3IC\r\nALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALAr\r\nJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAA\r\nu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3IC\r\nALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALAr\r\nJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAA\r\nu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3IC\r\nALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALAr\r\nJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAA\r\nu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3IC\r\nALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALAr\r\nJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAA\r\nu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3IC\r\nALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALAr\r\nJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAA\r\nu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3IC\r\nALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALAr\r\nJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAA\r\nu3ICALArJwAAu3ICALArJwAAu3ICADDp3A/mI7CBEzt/RwAAAABJRU5ErkJggg==",
+    "RulerGuidesX" : [],
+    "RulerGuidesY" : [],
+    "RulerShowing" : false,
+    "Title" : "2 min radionovela",
+    "audioNarrationNotes" : "",
+    "calloutStyle" : "Basic"
+  }
+}
